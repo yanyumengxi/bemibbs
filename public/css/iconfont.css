@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../fonts/iconfont.ttf?t=1653656114395') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont", serif !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qq:before {
+  content: "\e62e";
+}
+
+.icon-gitee-fill-round:before {
+  content: "\e686";
+}
+
+.icon-github:before {
+  content: "\e6ea";
+}
+
+.icon-baidu-fill:before {
+  content: "\e66a";
+}
+
